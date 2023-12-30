@@ -40,3 +40,41 @@ Fuentes:
 - Página 3: "La estructura se define como la suma total de las formas en las que una organización divide su mano de obra en tareas diferentes y su posterior coordinación."
 - Página 5: "En este Capítulo nos centramos en una organización formalmente establecida, mientras que en el Capítulo 12 cambiamos el objetivo hacia la naturaleza política de las organizaciones y examinamos la organización informal."
   
+depende de varios factores, como el tamaño de la institución, su tipo de actividad y su estructura jerárquica.
+
+En general, una **unidad de organización** o método se puede ubicar en diferentes niveles de la estructura organizativa. Algunas ubicaciones comunes incluyen:
+
+1. Nivel superior de la organización: Algunas instituciones pueden tener una unidad de organización o método en su nivel más alto, como un departamento o una dirección específica. Esto suele ocurrir cuando la actividad o el método es de gran importancia estratégica para la institución.
+
+2. Nivel intermedio de la organización: En instituciones más grandes, es común que haya unidades de organización o métodos ubicados en niveles intermedios, como divisiones o departamentos. Estas unidades suelen tener más autonomía y responsabilidad en su área específica.
+
+3. Nivel operativo de la organización: En el nivel más bajo de la estructura organizativa, las unidades de organización o métodos pueden estar ubicadas en unidades funcionales específicas, como equipos de trabajo o secciones. Estas unidades se encargan de la implementación de las decisiones y políticas establecidas en niveles superiores.
+
+Además de la ubicación en la estructura organizativa, la unidad de organización o método también puede tener relaciones y conexiones con otras unidades o departamentos dentro de la institución. Esto se conoce como relaciones de dependencia o de coordinación entre unidades, y puede variar dependiendo de las necesidades y objetivos de la institución.
+
+En resumen, la ubicación de una unidad de organización o método dentro de la estructura organizativa de una institución depende de factores como el tamaño y tipo de institución, así como de sus necesidades y objetivos específicos.
+
+## Normas y procedimientos para unidades administrativas 
+Las normas y procedimientos para unidades administrativas específicas de una organización pueden variar dependiendo de la naturaleza de la unidad y las necesidades de la organización. Sin embargo, a continuación se presentan algunas normas y procedimientos generales que pueden aplicarse a diversas unidades administrativas:
+
+1. Normas de puntualidad y asistencia: Establecer horarios de trabajo y políticas de asistencia para garantizar la puntualidad y el cumplimiento de las horas de trabajo.
+
+2. Normas de vestimenta: Definir un código de vestimenta adecuado para la unidad administrativa, de acuerdo con las normas y valores de la organización.
+
+3. Normas de uso de recursos: Establecer políticas para el uso adecuado de los recursos materiales y tecnológicos de la unidad, como equipos de oficina, software y otros activos.
+
+4. Procedimientos de solicitud y autorización: Establecer procesos para solicitar y autorizar permisos, vacaciones, compras de suministros y otros aspectos administrativos relevantes.
+
+5. Procedimientos de comunicación interna: Definir canales de comunicación interna eficientes para garantizar la fluidez de la información dentro de la unidad y con otras unidades de la organización.
+
+6. Procedimientos de gestión documental: Establecer lineamientos para la gestión, clasificación y almacenamiento de documentos y registros administrativos.
+
+7. Procedimientos de gestión de quejas y conflictos: Definir procesos para manejar quejas y conflictos internos, garantizando una resolución adecuada y justa.
+
+8. Normas de ética y conducta: Establecer estándares de comportamiento ético y profesional para los miembros de la unidad, promoviendo un ambiente de trabajo respetuoso y colaborativo.
+
+9. Procedimientos de capacitación y desarrollo: Definir planes y programas de capacitación y desarrollo para los empleados de la unidad, buscando mejorar sus habilidades y conocimientos.
+
+10. Normas de seguridad y salud laboral: Establecer políticas y procedimientos para garantizar la seguridad y el bienestar de los empleados de la unidad, siguiendo las regulaciones y estándares de seguridad y salud laboral.
+
+Estas son solo algunas de las normas y procedimientos que pueden aplicarse a unidades administrativas específicas de una organización. Es importante adaptar estas normas y procedimientos según las necesidades y características particulares de cada unidad.
